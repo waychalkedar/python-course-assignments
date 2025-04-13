@@ -2,7 +2,7 @@ import random
 
 # random.seed(21)
 
-print("I have thought of a number between 1 and 20.")
+print("I've thought of a number between 1 and 20.")
 
 num = random.randrange(1, 21, 1)
 
