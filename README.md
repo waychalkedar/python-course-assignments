@@ -12,3 +12,4 @@
    ```ruby
    python <working-directory>\rectangle_user.py <height> <width>
    ```
+2. Script `number_guessing_game_0.py`, wherein the user tries to guess a number the computer thinks up between 1 and 20. The user is told if their guess was greater or smaller than the guess (and by how much), or if their guess was correct.
