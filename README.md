@@ -14,4 +14,4 @@
    ```
 2. Script `number_guessing_game_0.py`, wherein the user tries to guess a number the computer thinks up between 1 and 20. The user is told if their guess was greater or smaller than the guess (and by how much), or if their guess was correct.
 
-* **day04**: Contains 6 scripts `number_guessing_game_1-6.py` in accordance to the [number guessing game exercise](https://slides.code-maven.com/python/exercise-number-guessing-game.html)
+* **day04**: Contains 7 scripts `number_guessing_game_0-6.py` in accordance to the [number guessing game exercise](https://slides.code-maven.com/python/exercise-number-guessing-game.html)
