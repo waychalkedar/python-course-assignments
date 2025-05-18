@@ -15,3 +15,11 @@
 2. Script `number_guessing_game_0.py`, wherein the user tries to guess a number the computer thinks up between 1 and 20. The user is told if their guess was greater or smaller than the guess (and by how much), or if their guess was correct.
 
 * **day04**: Contains 7 scripts `number_guessing_game_0-6.py` in accordance to the [number guessing game exercise](https://slides.code-maven.com/python/exercise-number-guessing-game.html)
+
+* **day05**: Contains the following scripts:
+1. Scripts `dna_sequencing.py` and `extended_dna_sequencing.py` according to [this exercise](https://slides.code-maven.com/python/exercise-dna-sequencing.html) that extracts continuous sequences of DNA bases (A, C, T, G) from a string and returns an array of them sorted by length.
+2. Scripts `count_digits_in_lists.py` and `count_words_in_lists.py` for the [count digits](https://slides.code-maven.com/python/exercise-count-digits.html) and [count words](https://slides.code-maven.com/python/exercise-count-words-in-list.html) exercises that count either the number of digits or words in a given list respectively.
+3. Script `create_list.py` according to [this exercise](https://slides.code-maven.com/python/exercise-create-list.html) that creates a list of individual words from a given list of strings.
+4. Script `is_prime.py` that checks if a number taken as input from the command line is prime or not.
+5. Script `color_selecter_menu.py` that on taking user input (either through the command line or as a prompt) returns the name of the color they chose.
+   
