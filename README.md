@@ -23,3 +23,10 @@
 4. Script `is_prime.py` that checks if a number taken as input from the command line is prime or not.
 5. Script `color_selecter_menu.py` that on taking user input (either through the command line or as a prompt) returns the name of the color they chose.
    
+* **day06**: Contains the following scripts:
+1. Script `color_selector_file.py` which adds the feature of providing an input file via the command line to the existing program `color_selector_menu.py`. To supply an input file:
+   ```ruby
+   python <working-directory>\color_selector_file.py colors.text
+   ```
+2. Script `count_digits_in_file.py` which similarly adds the input reading feature to the existing program. Example file for this is `numbers.txt`, and the program generates an output `report.txt`.
+3. Script `rot13_file.py` which, given an input file (example given is `rot13-example.txt`), replaces the contents of the file with the [ROT 13 cipher](https://en.wikipedia.org/wiki/ROT13) of them.
