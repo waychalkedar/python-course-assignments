@@ -30,3 +30,14 @@
    ```
 2. Script `count_digits_in_file.py` which similarly adds the input reading feature to the existing program. Example file for this is `numbers.txt`, and the program generates an output `report.txt`.
 3. Script `rot13_file.py` which, given an input file (example given is `rot13-example.txt`), replaces the contents of the file with the [ROT 13 cipher](https://en.wikipedia.org/wiki/ROT13) of them.
+
+* **day09**: Contains the following files:
+1. Main script `timelog.py` that converts a schedule-like log `timelog.log` into a report `timelog.txt`.
+2. Script `funcs.py` that contains functions which `timelog.py` uses.
+3. Script `test_funcs_pytest.py` that tests the functions within `funcs.py`. Specifically, it tests the programmer-provided examples for the `hhmm_to_minutes()` function.
+
+The user is encouraged to also check the documentation using `doctest` by running the following in the command line:
+```ruby
+python -m doctest funcs.py
+```
+There should ideally be no output i.e. the functions are working as intended for the provided examples.
